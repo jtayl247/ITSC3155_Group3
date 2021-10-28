@@ -1,0 +1,15 @@
+Group Members: Richard Fry, Nicholas Ashton, Valentin Correa, John Taylor
+
+Potential Data Sets:
+  1:
+  2:
+  3:
+  4:
+
+Customer(s):
+
+Problem being solved by project:
+
+Product Vision:
+
+Major Features:
