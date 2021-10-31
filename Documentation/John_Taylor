@@ -1,1 +1,27 @@
-Do Project Ideas Here
+Idea 1: Movie Finder
+
+	-Description: Once I find a good movie with an actor/actress I think is very talented, I often use that actor to find the next movie I will watch. But picking from a list of movies an actor has been in can be hard, so I would like a program that would pick a movie for me randomly based on the actor I select
+
+	-Dataset Link: https://datasets.imdbws.com
+
+
+
+Idea 2: Mile-High Metrics
+
+	-Description: Due to atmospheric pressure, sports events held at stadiums at higher elevations have some consequences due to this fact. Balls travel further due to lower air resistance which can both help and hurt depending on the post. This program would look at several major sports leagues to determine how playing at elevation affects the outcomes of games or individual statistics.
+
+	-Dataset Link(s): Just look up datasets for random sports
+
+
+
+Idea 3: Conspiracy Theories
+
+	-Link: https://www.kaggle.com/yamqwe/measuring-belief-in-conspiracy-theories
+
+
+
+Idea 4: Similar Music Finder
+
+	-Link https://www.kaggle.com/mrmorj/dataset-of-songs-in-spotify/discussion/206958 
+
+	-Use Spotify and enter a song that you like and get other songs that closely match the attributes of your song
