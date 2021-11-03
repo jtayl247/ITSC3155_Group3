@@ -13,3 +13,24 @@ Problem being solved by project:
 Product Vision:
 
 Major Features:
+
+
+
+Idea 2 (John): Mile-High Metrics
+
+	-Description: Due to atmospheric pressure, sports events held at stadiums at higher elevations have some consequences due to this fact. Balls travel further    due to lower air resistance which can both help and hurt depending on the post. This program would look at several major sports leagues to determine how playing at elevation affects the outcomes of games or individual statistics.
+
+	-Dataset Link(s): Just look up datasets for random sports
+	
+	-The customer/user would be anyone who was interested in seeing how altitude effects different atheletes and different sports metrics
+	
+	-This project would show analytics that reflect whether high altitude has a positive, negative, or neutral effect on athletes or the outcomes of sporting events.
+	
+	-For people who are interested in analyzing how high altitude affects athletes and sports in general. 'Mile High Metrics' is a stats website that shows from a strictly
+	statistical standpoint the affects of altitude and physics on both humans and sports. Unlike typical sporting statistics, Mile High Metrics is focused on strictly 
+	on measuring how athletes perform at higher elevations and how much sporting events are affected by this change. 
+	
+	-Product Features:
+		1. Filter by player to show career averages vs games that were played at higher elevations
+		2. Show average distances (home runs in Denver vs Tampa for example) to show physical affects of elevation
+		3. Feature to select based on location (Denver, Utah, etc...)
