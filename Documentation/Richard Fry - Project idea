@@ -1,0 +1,5 @@
+1) Countries' quality of life | Global
+"Where should I live?" app
+Data from citi-api.io
+Customers would be any person on earth who is moving, considering relocation, or curious about what their life would be like elsewhere on the planet.
+The project would make use of the global quality of life data in order to help individuals or families determine where they would like to live. There would be options given that would  allow users to set filters to search for possible locations. Quality of life would be the primary factor that determines the initial broad focus for a given search. After receiving a list of potential countries the user might select more filters in order to narrow their search. A user can also enter a list of preferred or chosen areas and have them referenced against the data from citi-api.io in order to determine the best choice.
